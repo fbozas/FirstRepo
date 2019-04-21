@@ -10,6 +10,8 @@ namespace FirstRepo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello mrc");
+            Console.WriteLine("and");
             Console.WriteLine("Hello world");
             Console.ReadKey();
         }
